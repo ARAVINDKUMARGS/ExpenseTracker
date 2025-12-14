@@ -82,7 +82,7 @@ ExpenseTracker/
 **Aravind Kumar**
 
 * GitHub: [ARAVINDKUMARGS](https://github.com/ARAVINDKUMARGS)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [aravindkumar06062006@gmail.com](mailto:aravindkumar06062006@gmail.com)
 
 ---
 
