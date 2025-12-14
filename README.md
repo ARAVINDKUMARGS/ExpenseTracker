@@ -54,15 +54,7 @@ Follow the on-screen menu:
 4. Category-wise Report
 5. Monthly Report
 6. Exit
-```
 
----
-
-## Screenshots
-
-![Expense Tracker Screenshot](screenshot.png)
-
----
 
 ## File Structure
 
